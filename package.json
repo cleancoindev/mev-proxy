@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/flashbots/mev-relay#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lodash": "^4.17.20",
     "request": "^2.88.2"
   },
